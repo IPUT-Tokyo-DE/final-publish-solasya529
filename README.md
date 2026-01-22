@@ -8,7 +8,9 @@
 
 頭を使いながら、障害物を避け、100秒以内に130スコアをめざしましょう！
 
-![画面イメージ](docs/images/game_image01.png)
+![画面イメージ]()
+<img width="877" height="503" alt="game_image02" src="https://github.com/user-attachments/assets/0eea5532-6809-40c4-a116-43073ab5ffc6" />
+<img width="887" height="503" alt="game_image01" src="https://github.com/user-attachments/assets/7dc4a0af-629c-498e-b147-2958c70f07d1" />
 
 ## 操作説明
 - 左右矢印キー、若しくはAとDキーで左右に移動するのみ！
